@@ -1,6 +1,6 @@
 {
   "name": "bookmarks-exporter",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "An extension to export your chrome bookmarks in a sane way.",
   "scripts": {
     "build": "webpack --config webpack.prod.js",
