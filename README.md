@@ -1,6 +1,8 @@
 # Bookmarks Exporter
 
-> An extension to export your chrome bookmarks in a sane way.
+An extension to export your chrome bookmarks in a sane way.
+
+> DEPRICATED: New version is here https://github.com/patheticGeek/improved-potato
 
 ## Building
 
